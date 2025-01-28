@@ -1,0 +1,6 @@
+[submodule "miniaudio"]
+	path = miniaudio
+	url = https://github.com/mackron/miniaudio
+[submodule "choc"]
+	path = choc
+	url = https://github.com/Tracktion/choc
